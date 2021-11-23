@@ -28,7 +28,7 @@
         "type": "msedge",
         "request": "launch",
         "name": "Edge",
-        "url": "https://localhost:6001/",
+        "url": "https://localhost:5001/",
         "webRoot": "${workspaceFolder}/ClientApp",
         "sourceMaps": true,
         "sourceMapPathOverrides": {
